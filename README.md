@@ -77,6 +77,9 @@ Possible solutions:
   `CogStorageNode` is still needed. This would need to be a pure custom
   all-new javascript object, that opens a socket and does the I/O over
   it.  It should not be that hard, but its not trivial.
+* Use the cogserver JSON shell. See the [JSON shell README](https://github.com/opencog/atomspace/blob/master/opencog/persist/json/README.md)
+  for how to use this. This is a solution of the second form, not the
+  third.  It still requires the cogserver to serialize the data.
 
 ## The End
 If you want to work on this project, contact the opencog mailing list.
