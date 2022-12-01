@@ -1,3 +1,6 @@
+# Archived
+There is nothing here, except for this README file.
+
 # atomspace-js
 JavaScript bindings to the AtomSpace
 
